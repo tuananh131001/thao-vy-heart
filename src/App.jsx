@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Canvas } from '@react-three/fiber'
-import HeartWithName from './Heart'
+import HeartWithName from './heart'
 import { Environment, OrbitControls } from '@react-three/drei'
 
 function App() {
